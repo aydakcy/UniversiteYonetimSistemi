@@ -1,0 +1,2 @@
+# UniversiteYonetimSistemi
+Üniversite Yönetim Sistemi
